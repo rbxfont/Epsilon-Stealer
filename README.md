@@ -1,9 +1,9 @@
 <h1 align="center"> Epsilon Stealer LEAK </h1> 
 <p align= "center"> <kbd> <img  src="https://i.imgur.com/ViganW8.jpg"width="420"> </kbd><br><br>
+https://xortoproject.xyz/createkey
 
 
-
-<p align="center"><a href="https://discord.gg/toolfr" target="_blank">✨ Join Discord for support and contact (Click me! ) ✨ </a>
+<p align="center"><a href="" target="_blank">✨ Join Discord for support and contact (Click me! ) ✨ </a>
 
 
 
@@ -91,5 +91,5 @@
 |--------------|------------ |
 | *Made By :*   |        IW deleted     |
 | *User :*      |iwdeleted |
-| *Server :*   | https://discord.gg/toolfr |
+| *Server :*   |  |
 
